@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Puffy",
+      "image": "public/assets/images/puffy.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Busta Rhymes",
+      "image": "public/assets/images/busta.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Mike D",
+      "image": "public/assets/images/beastieboy.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Afrika Bambatta",
+      "image": "public/assets/images/bam.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "BuckShot",
+      "image": "public/assets/images/buckshotshorty.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "De La Soul",
+      "image": "public/assets/images/dela1.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Heavy D",
+      "image": "public/assets/images/heavyD.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "De-La Soul",
+      "image": "public/assets/images/dela2.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Ice T",
+      "image": "public/assets/images/iceT.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "MC Lyte",
+      "image": "public/assets/images/mclyte.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Sway",
+      "image": "public/assets/images/sway.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Kid Capri",
+      "image": "/public/assets/images/kidcapri.png",
+      "count": 0
+    }
+  ]
+  
