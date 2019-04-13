@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Puffy",
-      "image": "public/assets/images/puffy.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/puffy.png?raw=true",
       "count": 0
     },
     {
       "id": 2,
       "name": "Busta Rhymes",
-      "image": "public/assets/images/busta.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/busta.png?raw=true",
       "count": 0
     },
     {
       "id": 3,
       "name": "Mike D",
-      "image": "public/assets/images/beastieboy.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/beastieboy.png?raw=true",
       "count": 0
     },
     {
       "id": 4,
       "name": "Afrika Bambatta",
-      "image": "public/assets/images/bam.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/bam.png?raw=true",
       "count": 0
     },
     {
       "id": 5,
       "name": "BuckShot",
-      "image": "public/assets/images/buckshotshorty.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/buckshotshorty.png?raw=true",
       "count": 0
     },
     {
       "id": 6,
       "name": "De La Soul",
-      "image": "public/assets/images/dela1.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/dela1.png?raw=true",
       "count": 0
     },
     {
       "id": 7,
       "name": "Heavy D",
-      "image": "public/assets/images/heavyD.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/heavyD.png?raw=true",
       "count": 0
     },
     {
       "id": 8,
       "name": "De-La Soul",
-      "image": "public/assets/images/dela2.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/dela2.png?raw=true",
       "count": 0
     },
     {
       "id": 9,
       "name": "Ice T",
-      "image": "public/assets/images/iceT.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/iceT.png?raw=true",
       "count": 0
     },
     {
       "id": 10,
       "name": "MC Lyte",
-      "image": "public/assets/images/mclyte.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/mclyte.png?raw=true",
       "count": 0
     },
     {
       "id": 11,
       "name": "Sway",
-      "image": "public/assets/images/sway.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/sway.png?raw=true",
       "count": 0
     },
     {
       "id": 12,
       "name": "Kid Capri",
-      "image": "/public/assets/images/kidcapri.png",
+      "image": "https://github.com/karatemaltliquor/ClickyGame/blob/master/public/assets/images/kidcapri.png?raw=true",
       "count": 0
     }
   ]
