@@ -1,5 +1,5 @@
 .card {
-  background: #fff;
+  /* background-image: "https://lax2jfk.files.wordpress.com/2012/05/tribecalledquest-midnightmarauders.jpg"; */
   border-radius: 2px;
   height: 250px;
   margin: 1rem;
@@ -13,7 +13,7 @@
   height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background-image: linear-gradient(to bottom right, red, black, yellow, green);
 }
 .card > .img-container > img {
   width: 60%
